@@ -1,6 +1,6 @@
-## Hi there 👋 
+## Hi there 👋 I'm Kavin Shah
 
-Builder, security researcher, and open-source developer.
+A Builder, security researcher, and open-source developer.
 
 ## What I Work On
 
