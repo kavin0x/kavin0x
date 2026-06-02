@@ -1,14 +1,11 @@
 ## Hi there 👋 I'm Kavin Shah
 
-A Builder, security researcher, and open-source developer.
+A Builder and a tinkerer, with an interest in security.
 
 ## What I Work On
 
-- Cybersecurity research
-- AI agents and automation
-- Open-source tooling
-- Operating systems and systems programming
-- Voice and video AI
+- Cybersecurity
+- AI and automation
 - Robotics and integrated technology
 
 ## Featured Projects
@@ -17,15 +14,14 @@ A Builder, security researcher, and open-source developer.
 Turn spoken content into polished blog posts using AI.
 
 ### Supply Bot
-A little tool to help manage inventory, and track trends, stocks, etc.
+A tool to help manage inventory, and track trends, stocks, etc.
 
 ## Current Goals
 
-- Growing my open-source ecosystem
+- Growing my open-source projects
 - Speaking at security conferences
 - Building practical AI tools
-- Contributing to the Bay Area cybersecurity community
-- Growing my cybersecurity skills altogether
+- Growing my cybersecurity skills
 
 ## Technologies
 
