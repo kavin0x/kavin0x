@@ -14,7 +14,7 @@ A Builder and a tinkerer, with an interest in security.
 Turn spoken content into polished blog posts using AI.
 
 ### Supply Bot
-A tool to help manage inventory, and track trends, stocks, etc.
+A tool to help manage inventory, track trends, generate reports, and do market research.
 
 ## Current Goals
 
