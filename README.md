@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**kavin0x/kavin0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder, security researcher, and open-source developer.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity research
+- AI agents and automation
+- Open-source tooling
+- Operating systems and systems programming
+- Voice and video AI
+- Robotics and integrated technology
+
+## Featured Projects
+
+### VoiceBlogger
+Turn spoken content into polished blog posts using AI.
+
+### Supply Bot
+A little tool to help manage inventory, and track trends, stocks, etc.
+
+## Current Goals
+
+- Growing my open-source ecosystem
+- Speaking at security conferences
+- Building practical AI tools
+- Contributing to the Bay Area cybersecurity community
+- Growing my cybersecurity skills altogether
+
+## Technologies
+
+```text
+Python
+Docker
+Linux
+AI/LLMs
+Cloudflare
+GitHub Actions
+LangChain
+n8n
+Burp Suite
+Swift
+```
+I am open to contributions and feedback, and if you want to colab. 
