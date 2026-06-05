@@ -6,7 +6,7 @@ A Builder and a tinkerer, with an interest in security.
 
 - Cybersecurity
 - AI and automation
-- Robotics and integrated technology
+- Robotics and integrated/embedded technology
 
 ## Featured Projects
 
