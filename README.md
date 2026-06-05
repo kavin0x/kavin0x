@@ -11,7 +11,10 @@ A Builder and a tinkerer, with an interest in security.
 ## Featured Projects
 
 ### VoiceBlogger
-Turn spoken content into polished blog posts using AI.
+Turn spoken content into polished blog posts using AI. Fully local, free, ad-free, supports 90+ languages.
+
+### TheCouncil
+TheCouncil is a multi-agent AI platform that orchestrates structured debates between AI personas using different models, with real-time discussion tracking, customizable agents, and optional code-execution and web search capabilities.
 
 ### Supply Bot
 A tool to help manage inventory, track trends, generate reports, and do market research.
