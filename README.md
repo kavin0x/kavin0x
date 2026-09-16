@@ -1,14 +1,43 @@
-I'm Kavin. I build local AI tools that fail closed when they should, and multi-agent stuff I actually run.
+## Hi there 👋 I'm Kavin Shah
 
-GitHub-first. Pleasanton, CA. Teen builder — security + agents, not a vendor blog.
+A Builder and a tinkerer, with an interest in security.
 
-What you'll find here:
-- everyharness — offline-first CLI/TUI around local models. Pickle/plugins/computer-use are trust boundaries, not vibes. PyPI 0.1.3.
-- TheCouncil — self-hosted multi-agent debate (FastAPI + Next + CLI TUI).
-- VoiceBlogger — on-device voice → notes/blog. Microphone in, text out. No cloud account required after setup.
-- RealityDiff — git for claims (commit / diff / blame / watch). Default path is xAI cloud, not local-first — README is honest about that.
-- gitsearch — did this path or blob ever land in a repo?
+## What I Work On
 
-I also send upstream patches when agent stacks sit on bad defaults (python-dotenv $(command) opt-in, etc.).
+- Cybersecurity
+- AI and automation
+- Robotics and integrated/embedded technology
 
-Pins / contact: github.com/kavin0x
+## Featured Projects
+
+### VoiceBlogger
+Turn spoken content into polished blog posts, notes, LinkedIn posts, Instagram, etc, using AI. Fully local, free, ad-free, and private. Supports 90+ languages.
+
+### TheCouncil
+TheCouncil is a multi-agent AI platform that orchestrates structured debates between AI personas using different models, with real-time discussion tracking, customizable agents, and optional code-execution and web search capabilities.
+
+### Supply Bot
+A tool to help manage inventory, track trends, generate reports, and do market research.
+
+## Current Goals
+
+- Growing my open-source projects
+- Speaking at security conferences
+- Building practical AI tools
+- Growing my cybersecurity skills
+
+## Technologies
+
+```text
+Python
+Docker
+Linux
+AI/LLMs
+Cloudflare
+GitHub Actions
+LangChain
+n8n
+Burp Suite
+Swift
+```
+I am open to contributions and feedback, and if you want to colab. 
